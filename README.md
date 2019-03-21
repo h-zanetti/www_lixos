@@ -9,4 +9,6 @@ At first, what you have to do is to click on the green box at the top right corn
 
 Once you have that it is pretty simple,the only thing that you have to do is open the __index.html__ file with your favorite browser and voilà, try out our demo version and contact us if you are interested in having this web application personalized to your own website.
 
-<p style='color: red'>Alert! Don't change the names or positions of the files.</p>
+![_index.html](setup/index.png)
+
+**Be careful! Don't change any name or the position in which the files are set up.**
