@@ -7,7 +7,7 @@ At first, what you have to do is to click on the green box at the top right corn
 
 ![_Clone or Download_](setup/Download.png)
 
-Once you have that it is pretty simple,the only thing that you have to do is to extract the files to any folder in your computer, open the __index.html__ file with your favorite browser and voilà! After trying out our demo version, contact us if you are interested in having this web application personalized to your own website.
+Once you have that, it is pretty simple. The only thing that you have to do is to extract the files to any folder in your computer, open the __index.html__ file with your favorite browser and voilà! After trying out our demo version, contact us if you are interested in having this web application personalized to your own website and automatically linked with your eCommerce system.
 
 ![_index.html](setup/index.png)  
 
