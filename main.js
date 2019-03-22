@@ -12,6 +12,7 @@ var design = document.getElementById('design');
 var color = document.getElementById('color');
 var image = document.getElementById('image');
 var art = document.getElementById('art')
+var submit = document.getElementById("submit");
 
 function chooseType(type) {
     design.classList.remove('d-none');
@@ -57,7 +58,7 @@ function chooseColor(color) {
     source = 'images/'+ piece.type +'/'+ piece.design +'/'+ color +'.png';
     photo.src = source;
     image.classList.remove('d-none');
-    
+    submit.classList.remove('d-none');    
 }
 
 var artSizeRange = document.getElementById("formControlRange1");
