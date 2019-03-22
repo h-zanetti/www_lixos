@@ -6,3 +6,12 @@ p {
     font-size: 1.25em;
 }
 
+#art {
+    bottom: 220px;
+    left: 125px;
+    width: 175px; 
+    position: absolute;
+}
+.w-45 {
+    width: 48%;
+}

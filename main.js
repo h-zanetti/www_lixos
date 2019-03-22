@@ -59,3 +59,21 @@ function chooseColor(color) {
     image.classList.remove('d-none');
     
 }
+
+var artSizeRange = document.getElementById("formControlRange1");
+artSizeRange.addEventListener("input", (e) => {
+    var artSize = artSizeRange.value;
+    art.style.width = artSize+'px';
+})
+
+var artXRange = document.getElementById("formControlRange3");
+artXRange.addEventListener("input", (e) => {
+    var artX = artXRange.value;
+    art.style.bottom = artX+'px';
+})
+
+var artYRange = document.getElementById("formControlRange2");
+artYRange.addEventListener("input", (e) => {
+    var artY = artYRange.value;
+    art.style.left = artY+'px';
+})
