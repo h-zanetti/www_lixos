@@ -70,7 +70,7 @@ artSizeRange.addEventListener("input", (e) => {
 var artXRange = document.getElementById("formControlRange3");
 artXRange.addEventListener("input", (e) => {
     var artX = artXRange.value;
-    art.style.bottom = artX+'px';
+    art.style.top = artX+'px';
 })
 
 var artYRange = document.getElementById("formControlRange2");

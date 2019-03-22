@@ -7,8 +7,8 @@ p {
 }
 
 #art {
-    bottom: 220px;
-    left: 125px;
+    top: 175px;
+    left: 100px;
     width: 175px; 
     position: absolute;
 }
